@@ -1,0 +1,7 @@
+{
+    "require": {
+        "symfony/yaml": "^4.2",
+        "ext-json": "^1.6",
+        "ext-curl": "^7.2"
+    }
+}
